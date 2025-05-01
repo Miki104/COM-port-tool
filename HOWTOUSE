@@ -1,2 +1,5 @@
 HOW TO USE:
 Connect your arduino board on port COM5 (Default, you can change it in the python script), after that, start the EXE file, or run the code and you can combine this tool with your Arduino project!!
+
+If it appears as a virus from your anti-virus (If you have one), dont worry, this isn't a malware. Btw i used the tool "auto-py-to-exe" to convert the python file into EXE.
+If there are any bugs or chagnes yu want to commint, let me know!
